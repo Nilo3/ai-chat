@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Sparkles } from "../node_modules/lucide-react/";
+import { Sparkles } from "../node_modules/lucide-react";
 import { Poppins } from "next/font/google";
 import { UserButton } from "@clerk/nextjs";
 
